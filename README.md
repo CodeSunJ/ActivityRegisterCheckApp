@@ -1,0 +1,2 @@
+# ActivityRegisterCheckApp
+检查Android App是否有Activity未注册
