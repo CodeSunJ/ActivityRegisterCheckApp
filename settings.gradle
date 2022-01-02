@@ -1,0 +1,6 @@
+include ':app', ':libraryOne'
+rootProject.name='CheckActivityRegisterApp'
+
+this.gradle.taskGraph.beforeTask { def task ->
+    // println(task.name)
+}
